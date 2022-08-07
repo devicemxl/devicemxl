@@ -1,6 +1,6 @@
 # hi! I'm David #
 
-I studied Architecture and Urbanism, Electromechanical Technician as well; in the 80's and early 90's Digital Graphic Design and Programmer. Coding has been my hobby since I was a kid. Now, I want to learn a few things about data flow. Now working as a freelancer
+I studied Architecture and Urbanism, Electromechanical Technician as well; in the 80's and early 90's Digital Graphic Design and Programmer. Coding has been my hobby since I was a kid. Now, I want to learn a few things about data flow. I working as a freelancer
 
 Comments and questions are always welcome. nothing grows alone
 <br><br><br><br>
