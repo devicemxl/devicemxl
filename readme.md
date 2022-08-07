@@ -1,6 +1,8 @@
 # hi! I'm David #
 
-Always learning, I aspire to be a MadMath: trying advanced algorithms like 1 + 1, print ("hello world") ... I studied Architecture and Urbanism, Electromechanical Technician as well; in the 80's and early 90's Digital Graphic Design and Programmer. Coding has been my hobby since I was a kid. Now, I want to learn a few things about data flow. I working as a freelancer
+Always learning, I aspire to be a MadMath: trying advanced algorithms like 1 + 1, print ("hello world") ...
+
+I studied Architecture and Urbanism, Electromechanical Technician as well; in the 80's and early 90's Digital Graphic Design and Programmer. Coding has been my hobby since I was a kid. Now, I want to learn a few things about data flow. I working as a freelancer
 
 Comments and questions are always welcome. nothing grows alone
 <br><br><br><br>
