@@ -5,6 +5,7 @@ I studied Architecture and Urbanism, Electromechanical Technician as well; in th
 Comments and questions are always welcome. nothing grows alone
 <br><br><br><br>
 I primarily use, some tools:
+
 <br>
 <div>
 Py: &nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,44 +25,34 @@ Numpy</a>&nbsp;&nbsp;
 <br>
 <div>
 DB's: &nbsp;&nbsp;&nbsp;&nbsp;
-<a>
-<img scr="https://raw.githubusercontent.com/devicemxl/devicemxl/raiz/imgs/bigquery.png" width="18px" height="18px">
+<a><img src="https://raw.githubusercontent.com/devicemxl/devicemxl/raiz/imgs/bigquery.png"  width="18px" height="18px">
 BigQuery</a>&nbsp;&nbsp;
-<a>
-<img scr="https://raw.githubusercontent.com/devicemxl/devicemxl/raiz/imgs/MSSQL.png" width="18px" height="18px">
+<a><img src="https://raw.githubusercontent.com/devicemxl/devicemxl/raiz/imgs/MSSQL.png"  width="18px" height="18px">
 MS-SQL</a>&nbsp;&nbsp;/&nbsp;&nbsp;
-<a>
-<img scr="https://raw.githubusercontent.com/devicemxl/devicemxl/raiz/imgs/mysql.png" width="18px" height="18px">
+<a><img src="https://raw.githubusercontent.com/devicemxl/devicemxl/raiz/imgs/mysql.png"  width="18px" height="18px">
 mySQL</a>&nbsp;&nbsp;
-<a>
-<img scr="https://raw.githubusercontent.com/devicemxl/devicemxl/raiz/imgs/workbench.png" width="18px" height="18px">
+<a><img src="https://raw.githubusercontent.com/devicemxl/devicemxl/raiz/imgs/workbench.png"  width="18px" height="18px">
 Workbench</a>&nbsp;&nbsp;
 </div>
 
 <br>
 <div>
 JS's: &nbsp;&nbsp;&nbsp;&nbsp;
-<a>
-<img scr="https://avatars.githubusercontent.com/u/12729373?s=280&v=4"  width="18px" height="18px">
-Riot</a>&nbsp;
-<a>
-<img scr="https://raw.githubusercontent.com/Turfjs/turf/9a1d5e8d99564d4080f1e2bf1517ed41d18012fa/logo.png"  width="18px" height="18px">
-Turf</a>&nbsp;
-<a>
-<img scr="https://repository-images.githubusercontent.com/316637325/f33c0700-310f-11eb-8f3b-9381b498bf8c"  width="18px" height="18px">
-Leaflet</a>&nbsp;
+<a><img src="https://raw.githubusercontent.com/devicemxl/devicemxl/raiz/imgs/riot.png"  width="18px" height="18px">
+Riot</a>&nbsp;&nbsp;
+<a><img src="https://raw.githubusercontent.com/devicemxl/devicemxl/raiz/imgs/turf.png"  width="18px" height="18px">
+Turf</a>&nbsp;&nbsp;
+<a><img src="https://raw.githubusercontent.com/devicemxl/devicemxl/raiz/imgs/leafted.png"  width="18px" height="18px">
+Leaflet</a>&nbsp;&nbsp;
 </div>
 
 <br>
 <div>
 Other Tools: &nbsp;&nbsp;&nbsp;&nbsp;
-<a>
-<img scr=""  width="18px" height="18px">
-QGIS3</a>&nbsp;
-<a>
-<img scr=""  width="18px" height="18px">
-Azure Data Studio</a>&nbsp;
-<a>
-<img scr=""  width="18px" height="18px">
-Visual Studio Code</a>&nbsp;
+<a><img src="https://raw.githubusercontent.com/devicemxl/devicemxl/raiz/imgs/qgis.png"  width="18px" height="18px">
+QGIS3</a>&nbsp;&nbsp;
+<a><img src="https://raw.githubusercontent.com/devicemxl/devicemxl/raiz/imgs/azure.png"  width="18px" height="18px">
+Azure Data Studio</a>&nbsp;&nbsp;
+<a><img src="https://raw.githubusercontent.com/devicemxl/devicemxl/raiz/imgs/VScode.png"  width="18px" height="18px">
+Visual Studio Code</a>&nbsp;&nbsp;
 </div>
