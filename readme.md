@@ -51,6 +51,8 @@ Leaflet</a>&nbsp;&nbsp;
 <br>
 <div>
 Other Tools: &nbsp;&nbsp;&nbsp;&nbsp;
+<a><img src="https://raw.githubusercontent.com/devicemxl/devicemxl/raiz/imgs/"  width="18px" height="18px">
+Power BI</a>&nbsp;&nbsp;
 <a><img src="https://raw.githubusercontent.com/devicemxl/devicemxl/raiz/imgs/qgis.png"  width="18px" height="18px">
 QGIS3</a>&nbsp;&nbsp;
 <a><img src="https://raw.githubusercontent.com/devicemxl/devicemxl/raiz/imgs/azure.png"  width="18px" height="18px">
