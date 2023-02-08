@@ -47,12 +47,12 @@ I use, 🛠️<strong> some tools: </strong>
 <img src="https://shields.io/badge/Py-statsmodels-gray?labelColor=silver&logoColor=navy&logo=statsmodels&style=for-the-badge" alt="statsmodels">
 <img src="https://shields.io/badge/Py-shap-gray?labelColor=silver&logoColor=navy&logo=shap&style=for-the-badge" alt="shap">
 <img src="https://shields.io/badge/Py-pySpark-gray?labelColor=silver&logoColor=navy&logo=spark&style=for-the-badge" alt="pySpark">
-</p>
-<p>
+<!--/p>
+<p-->
 <img src="https://shields.io/badge/SQL-MSSQL-003050?labelColor=004161&logoColor=white&logo=microsoftsqlserver&style=for-the-badge" alt="MS Sql">
 <img src="https://shields.io/badge/SQL-Big Query-205090?labelColor=004161&logoColor=white&logo=googlecloud&style=for-the-badge" alt="Big Query">
-</p>
-<p>
+<!--/p>
+<p-->
 <img src="https://shields.io/badge/Tool-dataiku-003050?labelColor=004161&logoColor=white&logo=dataiku&style=for-the-badge" alt="dataiku">
 <img src="https://shields.io/badge/Tool-Knime-104070?labelColor=004161&logoColor=white&logo=keystone&style=for-the-badge" alt="Knime">
 <img src="https://shields.io/badge/Tool-jupyter-205090?labelColor=004161&logoColor=white&logo=jupyter&style=for-the-badge" alt="jupyter">
