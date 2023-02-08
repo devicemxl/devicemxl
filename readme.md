@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/david-o-11b50627">
   <img height="20" src="https://img.shields.io/static/v1?message=Portfolio&logo=chromecast&labelColor=navy&color=gold&logoColor=white&label=%20" alt="Portfolio">
 </a>
-<a href="https://www.linkedin.com/in/david-o-11b50627">
+<a href="https://hackernoon.com/u/mxsundevice">
   <img src="https://img.shields.io/static/v1?message=hackernoon&logo=hackernoon&labelColor=585858&color=004161&logoColor=white&label=%20" alt="hackernoon">
 </a>
   
