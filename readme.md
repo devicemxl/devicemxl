@@ -75,5 +75,3 @@ I use, 🛠️<strong> some tools: </strong>
 
 <br>
 <h6 align="center">And so on</h6>
-
-<br><br><br><br>
