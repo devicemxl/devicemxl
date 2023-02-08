@@ -59,8 +59,7 @@ I use, 🛠️<strong> some tools: </strong>
 <img src="https://shields.io/badge/Tool-colab-205090?labelColor=004161&logoColor=white&logo=googlecolab&style=for-the-badge" alt="colab">
 <img src="https://shields.io/badge/Tool-Azure DS-205090?labelColor=004161&logoColor=white&logo=azure&style=for-the-badge" alt="Azure DS">
 <img src="https://shields.io/badge/Tool-vs code-205090?labelColor=004161&logoColor=white&logo=visualstudiocode&style=for-the-badge" alt="vs code">
-</p>
-<p>
+  
 <img src="https://shields.io/badge/Web-HTML-990000?style=for-the-badge" alt="html">
 <img src="https://shields.io/badge/Web-css-990000?style=for-the-badge" alt="css">
 <img src="https://shields.io/badge/Web-Js-990000?style=for-the-badge" alt="js">
@@ -68,8 +67,7 @@ I use, 🛠️<strong> some tools: </strong>
 <img src="https://shields.io/badge/Web-Turf-990000?style=for-the-badge" alt="Turf">
 <img src="https://shields.io/badge/Web-leafted-990000?style=for-the-badge" alt="leafted">
 <img src="https://shields.io/badge/Web-Riot-990000?style=for-the-badge" alt="riot">
-</p>
-<p>
+  
 <img src="https://shields.io/badge/other-tableau-0?style=for-the-badge&labelColor=navy&color=gold&logoColor=white" alt="tableau">
 <img src="https://shields.io/badge/other-PowerBi-0?style=for-the-badge&labelColor=navy&color=gold&logoColor=white" alt="PowerBi">
 <img src="https://shields.io/badge/other-QGIS-0?style=for-the-badge&labelColor=navy&color=gold&logoColor=white" alt="QGIS">
