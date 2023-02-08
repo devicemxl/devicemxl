@@ -34,7 +34,7 @@ Patterns aand Coding has been my hobby since I was a kid.
 
  </pre>
 Corrections, Comments and questions are always welcome. nothing grows alone
-<br><br><br><br>
+<br><br>
 I use, 🛠️<strong> some tools: </strong>
 
 <p>
@@ -73,7 +73,7 @@ I use, 🛠️<strong> some tools: </strong>
 <img src="https://shields.io/badge/other-QGIS-0?style=for-the-badge&labelColor=navy&color=gold&logoColor=white" alt="QGIS">
 </p>
 
-<br><br><br><br>
+<br>
 <h6 align="center">And so on</h6>
 
 <br><br><br><br>
