@@ -30,7 +30,7 @@ I aspire to be a MadMath: trying advanced algorithms like 1 + 1, print ("hello w
 
 I working as a Data consultant, i studied Architecture and Urbanism, Electromechanical Technician as well;
 in the 80's and early 90's Digital Graphic Design and Programmer.
-Patterns aad Coding has been my hobby since I was a kid.
+Patterns and Coding has been my hobby since I was a kid.
 
  </pre>
 This is only my workbench: Corrections, Comments and questions are always welcome. nothing grows alone
